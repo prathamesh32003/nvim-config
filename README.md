@@ -1,17 +1,17 @@
 ### My Neovim config
 ---
 ## Includes the following plugins:
-autopairs
-catppuccin
-conform
-cord
-lualine
-minintro
-neo-tree
-render-markdown
-telescope
-treesitter
-mason
-nvim-lspconfig
-cmp-nvim-lsp
-nvim-cmp
+autopairs<br>
+catppuccin<br>
+conform<br>
+cord<br>
+lualine<br>
+minintro<br>
+neo-tree<br>
+render-markdown<br>
+telescope<br>
+treesitter<br>
+mason<br>
+nvim-lspconfig<br>
+cmp-nvim-lsp<br>
+nvim-cmp<br>
