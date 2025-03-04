@@ -66,6 +66,9 @@ return {
 			require("lspconfig").ts_ls.setup({
 				capabilities = capabilities,
 			})
+
+            -- Some custom configurations
+            vim.cmd(':set winhighlight=' .. cmp.config.window.bordered().winhighlight)
 		end,
 	},
 }
